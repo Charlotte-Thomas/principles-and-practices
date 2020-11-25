@@ -109,4 +109,4 @@ Does the code impose any maximum limit on the work it handles. If it was passed 
 
 In computer science terms is the code O(1) or O(n) or worse?
 
-In this case it might be reasonable to ask how the reviewee expects the code to behave, will it intentionally crash or timeout? Is there a better solution?
+In this case it might be reasonable to ask how the reviewee expects the code to behave, will it intentionally crash or timeout? Is there a better solution?*
